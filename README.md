@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on any project that help me gain more and more experience
 - 😄 Pronouns: He
-- ⚡ Fun fact: i am also a very good music producer
+- ⚡ Fun fact: Coding has over 700 languages
 
 <!---
 garvdalal/garvdalal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
