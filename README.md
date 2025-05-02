@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @garvdalal
-- 👀 I’m interested in learning how to code because coding doesn't end 
-- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on any project that help me gain more and more experience
 - 😄 Pronouns: He
 - ⚡ Fun fact: Coding has over 700 languages
